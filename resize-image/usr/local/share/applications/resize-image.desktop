@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=resize-image
+Exec=resize-image 
+Icon=resize-image
+Keywords=fyne;

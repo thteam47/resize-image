@@ -1,0 +1,7 @@
+Package: resizeimage
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: thteam47@gmail.com              
+Description: Resize Image
